@@ -1,0 +1,1 @@
+(this["webpackJsonparbitrage-react-app"]=this["webpackJsonparbitrage-react-app"]||[]).push([[153],{2698:function(a,e,t){"use strict";t.r(e);var r=t(0),n=t.n(r),c=t(1275),p=t(15),i=Object(c.a)({root:{padding:24}});e.default=function(){var a=i();return n.a.createElement("div",{className:a.root},n.a.createElement(p.b,null))}}}]);
